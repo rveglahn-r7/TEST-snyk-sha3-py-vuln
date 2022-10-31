@@ -1,3 +1,5 @@
+#!/usr/bin/env python3.7
+
 import hashlib
 h = hashlib.sha3_224()
 h.update(b"\x00" * 1)
