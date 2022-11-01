@@ -45,7 +45,7 @@ pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pycparser==2.20
 pycrypto==2.6.1
-Pygments==2.5.2
+Pygments==2.7.4
 pyOpenSSL==20.0.1
 pyparsing==2.4.7
 pystatsd==0.1.10
@@ -78,7 +78,7 @@ zipp==1.2.0
 
 
 
-mkdocs==1.0.4
+mkdocs==1.3.0
 mkdocs-material==4.6.0
 mkdocs-markdownextradata-plugin==0.1.1
 markdown>=3.1,<3.2
