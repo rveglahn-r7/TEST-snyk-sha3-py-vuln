@@ -1,6 +1,6 @@
 python_version == "3.10"
 pysha3==1.0.2
 pypy==7.3.8
-XKCP==fdc6fef
+XKCP=="fdc6fef"
 php==8.0.0
 ruby_sha3==1.0.4
