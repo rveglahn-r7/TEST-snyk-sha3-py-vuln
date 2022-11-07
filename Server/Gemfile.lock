@@ -3,7 +3,7 @@ GEM
   specs:
     ecdsa (1.2.0)
     salsa20 (0.1.1)
-    sha3 (1.0.1)
+    sha3 (1.0.5)
     trollop (2.1.2)
 
 PLATFORMS
@@ -12,5 +12,8 @@ PLATFORMS
 DEPENDENCIES
   ecdsa
   salsa20
-  sha3
+  sha3 (>= 1.0.5)
   trollop
+
+BUNDLED WITH
+   2.1.4
